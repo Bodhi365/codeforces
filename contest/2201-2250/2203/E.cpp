@@ -91,7 +91,6 @@ void solve() {
   return;
 }
 int main() {
-  // freopen("1.in", "r", stdin);
   ios::sync_with_stdio(0), cin.tie(0), cout.tie(0);
   solve();
   return 0;
